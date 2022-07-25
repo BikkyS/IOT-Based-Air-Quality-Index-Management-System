@@ -1,5 +1,4 @@
 # IOT-Based-Air-Quality-Index-Management-System
-Device that can measure different gases parameters present in the air using different sensors and IOT.
 Internet of Things (IOT) may be a world-wide system of “smart devices” which will sense and
 connect with their surroundings and interact with users and other systems. Global air pollution is
 one of the major concerns of our era. The level of pollution has increased with times by lot of
@@ -12,4 +11,25 @@ server. Existing monitoring systems have inferior precision, low sensitivity, an
 analysis. Therefore, improved monitoring systems are needed. To overcome the issues of
 existing systems, we propose this small circuit board helps AQI monitoring through an
 interactive dashboard showing data of ozone, CO2, temperature and humidity.
-![Screenshot 2022-07-24 232805](https://user-images.githubusercontent.com/72158443/180846553-a2ba3e0f-bddc-4dfc-95e4-7ce8c771eb19.png)
+
+1. Objective of the Project
+The main objective of this project is to develop a device that can measures temperature,
+humidity, carbon dioxide and ozone gas concentration at that particular place wherever that
+device is placed. Those observed values is visible to everyone on a LCD display connected to
+the device as well as on the user interface (UI) designed by using html, css and JavaScript.
+Data is visible in graphical as well as discrete digital value. Instant data as well as 10 days
+before data‟s can be observed in the graph on UI.
+Those observed values will help the environmental analyst to analyse the environmental air
+gases parameters along with the ozone concentration. Analysing of these data‟s will clarify
+the clear blue print for “What Measures should be taken and where first?” to maintain the
+greater concentration of ozone and controlling of harmful gases like carbon dioxide (co2).
+The main innovative in our project is to measure ozone concentration as well along with the
+other pollutant gases which was not there in the existing project.
+
+2. Architecture Diagram
+
+
+![Architecture Diagram](https://user-images.githubusercontent.com/72158443/180847016-2b027512-549f-4a6f-8fd5-352b4faadd80.png)
+
+
+
