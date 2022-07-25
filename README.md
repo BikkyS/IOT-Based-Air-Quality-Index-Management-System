@@ -54,6 +54,7 @@ diagram gives the completed idea of architecture of the project in a simplified 
 it can be understand easily.
 
 ![Architecture Diagram](https://user-images.githubusercontent.com/72158443/180847016-2b027512-549f-4a6f-8fd5-352b4faadd80.png)
+            
             Fig: Architecture Diagram
 
 3.Circuit Design
@@ -68,6 +69,7 @@ connections. A drawing meant to depict the physical arrangement of the wires and
 Circuit diagrams are used for the design (circuit design), construction (such as PCB layout),
 and maintenance of electrical and electronic equipment.
 ![Screenshot 2022-07-24 232805](https://user-images.githubusercontent.com/72158443/180847368-e9019377-5937-4453-a4cf-be429b2a09f0.png)
+            
             Fig: Circuit Diagram
 
 
