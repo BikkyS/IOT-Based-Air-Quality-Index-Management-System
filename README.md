@@ -55,7 +55,7 @@ it can be understand easily.
 
 ![Architecture Diagram](https://user-images.githubusercontent.com/72158443/180847016-2b027512-549f-4a6f-8fd5-352b4faadd80.png)
             
-            Fig: Architecture Diagram
+                                                 Fig: Architecture Diagram
 
 3.Circuit Design
 A circuit diagram (wiring diagram, electrical diagram, elementary diagram, electronic
@@ -70,7 +70,7 @@ Circuit diagrams are used for the design (circuit design), construction (such as
 and maintenance of electrical and electronic equipment.
 ![Screenshot 2022-07-24 232805](https://user-images.githubusercontent.com/72158443/180847368-e9019377-5937-4453-a4cf-be429b2a09f0.png)
             
-            Fig: Circuit Diagram
+                                                  Fig: Circuit Diagram
 
 
 
