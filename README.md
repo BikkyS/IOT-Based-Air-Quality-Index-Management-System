@@ -71,6 +71,22 @@ and maintenance of electrical and electronic equipment.
 ![Screenshot 2022-07-24 232805](https://user-images.githubusercontent.com/72158443/180847368-e9019377-5937-4453-a4cf-be429b2a09f0.png)
             
                                                   Fig: Circuit Diagram
+4. Flow Diagram
+A flowchart is a picture of the separate steps of a process in sequential order. It is a generic
+tool that can be adapted for a wide variety of purposes, and can be used to describe various
+processes, such as a manufacturing process, an administrative or service process, or a project
+plan. A flowchart is a diagram depicting a process, a system or a computer algorithm. It is a
+diagrammatic representation of the solution to a given problem but, more importantly, it
+provides a breakdown of the essential steps to solving the problem. Flow diagram is a
+collective term for a diagram representing a flow or set of dynamic relationships in a system.
+The term flow diagram is also used as a synonym for flowchart, and sometimes as a
+counterpart of the flowchart.
+Flow diagrams are used to structure and order a complex system, or to reveal the underlying
+structure of the elements and their interactions. Below Flow diagram describes the complete
+data flow from starting phase to ending phase of our project.
 
+![Screenshot 2022-07-25 235643](https://user-images.githubusercontent.com/72158443/180848118-15d99951-9232-458a-a61c-b59f98b40ea3.png)
+
+                                                    Fig: Flow Diagram       
 
 
