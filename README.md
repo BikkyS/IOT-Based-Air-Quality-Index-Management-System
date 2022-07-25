@@ -12,3 +12,4 @@ server. Existing monitoring systems have inferior precision, low sensitivity, an
 analysis. Therefore, improved monitoring systems are needed. To overcome the issues of
 existing systems, we propose this small circuit board helps AQI monitoring through an
 interactive dashboard showing data of ozone, CO2, temperature and humidity.
+![Screenshot 2022-07-24 232805](https://user-images.githubusercontent.com/72158443/180846553-a2ba3e0f-bddc-4dfc-95e4-7ce8c771eb19.png)
